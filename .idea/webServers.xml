@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="af456272-8a45-4bfd-9300-3a62267c6df4" name="piton" url="http://piton.e-products.club">
+        <fileTransfer host="piton.e-products.club" port="21" rootFolder="/public_html/wp-content/themes/piton_en">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
